@@ -25,5 +25,4 @@ A simple and responsive React-based web app that allows users to:
 - JavaScript
 - HTML5 + CSS3
 
----
 
