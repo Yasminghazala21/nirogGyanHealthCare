@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nirogGyanHealthCare/static/css/main.e6c13ad2.css",
+    "main.js": "/nirogGyanHealthCare/static/js/main.58adc389.js",
+    "index.html": "/nirogGyanHealthCare/index.html",
+    "main.e6c13ad2.css.map": "/nirogGyanHealthCare/static/css/main.e6c13ad2.css.map",
+    "main.58adc389.js.map": "/nirogGyanHealthCare/static/js/main.58adc389.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.58adc389.js"
+  ]
+}
